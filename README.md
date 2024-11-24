@@ -1,6 +1,6 @@
 
 ## Online Assessment Platform
-This is an online assessment platform made by Kashish Ahuja and M Boopathi as the final project of the Walkover University Program.
+This is an online assessment platform made by Luca and M Boopathi as the final project of the Walkover University Program.
 The web application is a robust online testing platform for conducting remote online examinations. The project is made over Java as the backend, PostgreSQL as the  database, and HTML, CSS, JS, Boostrap4, and AJAX as front end.
 
 
@@ -36,10 +36,9 @@ https://user-images.githubusercontent.com/55057608/131963901-8229a2ca-b18d-4e32-
 5. All users' names and scores are displayed at the end using a database table for storing the data and scores of the user.
 
 ## Developers
-1. Kashish Ahuja [https://github.com/kashishahuja2002]
-2. M Boopathi [https://github.com/Mboopathi1999]
+1. Luca [https://github.com/lucatosc2002]
 
-* `Frontend + JavaScript Functionality` : ***Kashish Ahuja***
+* `Frontend + JavaScript Functionality` : ***Luca***
 * `Backend + Database` : ***M Boopathi***
 
 
@@ -53,7 +52,7 @@ https://user-images.githubusercontent.com/55057608/131963901-8229a2ca-b18d-4e32-
 1. Clone this repository in your local system.
    
    ```
-   git clone https://github.com/kashishahuja2002/Online_assessment_platform.git
+   git clone https://github.com/lucatosc/Online_assessment_platform.git
    ````
 2. Local system must have JDK and JRE pre-installed in it.
 3. Pre-installed Netbeans or Eclipse with Apache Tomcat-Server is required.
